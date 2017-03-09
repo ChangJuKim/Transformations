@@ -8,4 +8,5 @@ color = [ 0, 255, 0 ]
 edges = []
 transform = new_matrix()
 
+
 parse_file( 'test1.txt', edges, transform, screen, color )
